@@ -51,6 +51,7 @@ This Excel project takes raw coffee order data and transforms it into a clean, i
    - Coffee Type
    - Roast Type
    - Size
+     For a better line chart visualization Expand the entire field of year
 4. Analyze:
    - Monthly coffee demand
    - Top 5 customers  (By using this we can give a freebie to our top most customers)
